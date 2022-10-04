@@ -1,0 +1,43 @@
+{
+	"title": "Green blue frogs Part 2",
+	"year": 1999,
+	"abstract": "Some words about frogs blue and green",
+	"venue_name": "Nature vol. 12",
+	"keywords": [
+		{
+			"name": "frogs"
+		},
+		{
+			"name": "flora"
+		}
+	],
+	"authors": [
+		{
+			"name": "Victor Petrov",
+			"orgs": [
+				{
+					"name": "MIT"
+				}
+			]
+		},
+		{
+			"name": "Ivan Ivanov",
+			"orgs": [
+				{
+					"name": "MSU"
+				},
+				{
+					"name": "HSE"
+				}
+			]
+		}
+	],
+	"fos": [
+		{
+			"name": "nature"
+		},
+		{
+			"name": "animals"
+		}
+	]
+}
